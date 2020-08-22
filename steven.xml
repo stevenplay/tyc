@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TyC Sports">
+    <display-name lang="es">TyC Sports</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <programme start="20200822010000 -0300" stop="20200822020000 -0300" channel="TyC Sports">
+    <title lang="es">Carburando</title>
+  </programme>
+  <programme start="20200822020000 -0300" stop="20200822023000 -0300" channel="TyC Sports">
+    <title lang="es">Player One eSports</title>
+  </programme>
+  <programme start="20200822023000 -0300" stop="20200822043000 -0300" channel="TyC Sports">
+    <title lang="es">Presión alta</title>
+  </programme>
+  <programme start="20200822043000 -0300" stop="20200822053000 -0300" channel="TyC Sports">
+    <title lang="es">Especial</title>
+  </programme>
+  <programme start="20200822053000 -0300" stop="20200822063000 -0300" channel="TyC Sports">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20200822063000 -0300" stop="20200822080000 -0300" channel="TyC Sports">
+    <title lang="es">Planeta gol</title>
+  </programme>
+  <programme start="20200822080000 -0300" stop="20200822090000 -0300" channel="TyC Sports">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20200822090000 -0300" stop="20200822110000 -0300" channel="TyC Sports">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20200822110000 -0300" stop="20200822120000 -0300" channel="TyC Sports">
+    <title lang="es">Uno contra uno</title>
+  </programme>
+  <programme start="20200822120000 -0300" stop="20200822200000 -0300" channel="TyC Sports">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20200822200000 -0300" stop="20200822220000 -0300" channel="TyC Sports">
+    <title lang="es">Los especiales de TyC Sports</title>
+  </programme>
+  <programme start="20200822220000 -0300" stop="20200822230000 -0300" channel="TyC Sports">
+    <title lang="es">Especial</title>
+  </programme>
+</tv>
